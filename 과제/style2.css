@@ -1,0 +1,12 @@
+body {
+  background-color: purple;
+  color: white;
+}
+
+.wider {
+  background-color: orange;
+}
+
+.narrower {
+  background-color: skyblue;
+}
